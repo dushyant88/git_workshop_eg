@@ -1,4 +1,4 @@
-this should create a conflict file one
+this should create a conflict file one and now conflict in egypt!
 
 this is for the git workshop
 
