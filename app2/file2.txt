@@ -1,4 +1,4 @@
-this is file two for app 2
+this is fixed file 2
 
 This file has new content
 
